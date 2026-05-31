@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Tik Rox",
+  "description": "Short-form video app with custom audio visualizers, creator feed, likes, comments and local publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
